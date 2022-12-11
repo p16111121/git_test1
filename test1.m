@@ -6,3 +6,4 @@ figure(1);
 bar(graylv,pixel_num);
 xlabel("Gray Level");
 ylabel("Pixel num");
+51451561541
